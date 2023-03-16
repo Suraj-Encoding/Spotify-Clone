@@ -59,7 +59,7 @@ nav ul li:hover::after {
    width: 70%;
    border-radius: 12px;
    padding: 34px ;
-   background-image: url('bg1.jpg');
+   background-image: url('bg2.jpg');
 }
 
 .bottom{
